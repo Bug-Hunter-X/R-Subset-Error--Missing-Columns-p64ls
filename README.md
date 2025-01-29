@@ -1,0 +1,1 @@
+This repository demonstrates a common error in R when subsetting data frames using character vectors of column names.  The issue arises when the specified column names do not all exist within the data frame, leading to an error.  The solution shows how to handle this gracefully using `dplyr` or base R techniques.
